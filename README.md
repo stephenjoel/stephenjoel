@@ -12,7 +12,7 @@
 
 ### 🔍 About Me: 
 
-I'm an Infrastructure Engineer who's passionate about simplifying complex processes. My expertise lies in automation, abstraction, and crafting engaging documentation. 
+I'm an Infrastructure Engineer who's passionate about simplifying complex processes. 
 
 - 📍 Currently: Compute/Doordash
 - ❓ Feel free to ask me about anything related to Kubernetes, Helm, and more.
